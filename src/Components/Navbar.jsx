@@ -7,7 +7,7 @@ function Navbar(){
     <header class="navcss">
     <nav>
       <ul class="navlinks">
-      <li><a href="/">Landing</a></li>  
+      <li><a href="https://saurabh021120.github.io/streambuy/#/">Landing</a></li>  
       <li><a href="https://saurabh021120.github.io/streambuy/#/login">Login</a></li>
       <li><a href="https://saurabh021120.github.io/streambuy/#/dashboard">Dashboard</a></li>
       </ul>
