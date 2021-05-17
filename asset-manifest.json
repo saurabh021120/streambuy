@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/streambuy/static/css/main.dc29921e.chunk.css",
-    "main.js": "/streambuy/static/js/main.d1f56aed.chunk.js",
-    "main.js.map": "/streambuy/static/js/main.d1f56aed.chunk.js.map",
+    "main.js": "/streambuy/static/js/main.2b7b4029.chunk.js",
+    "main.js.map": "/streambuy/static/js/main.2b7b4029.chunk.js.map",
     "runtime-main.js": "/streambuy/static/js/runtime-main.4d657329.js",
     "runtime-main.js.map": "/streambuy/static/js/runtime-main.4d657329.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/streambuy/static/css/2.4c97ca4f.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.7ba13cae.chunk.js",
     "static/css/main.dc29921e.chunk.css",
-    "static/js/main.d1f56aed.chunk.js"
+    "static/js/main.2b7b4029.chunk.js"
   ]
 }
