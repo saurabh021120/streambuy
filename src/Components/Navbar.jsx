@@ -8,8 +8,8 @@ function Navbar(){
     <nav>
       <ul class="navlinks">
       <li><a href="/">Landing</a></li>  
-      <li><a href="/login">Login</a></li>
-      <li><a href="/dashboard">Dashboard</a></li>
+      <li><a href="https://saurabh021120.github.io/streambuy/#/login">Login</a></li>
+      <li><a href="https://saurabh021120.github.io/streambuy/#/dashboard">Dashboard</a></li>
       </ul>
     </nav>
   </header>
