@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/streambuy/static/css/main.dc29921e.chunk.css",
-    "main.js": "/streambuy/static/js/main.ecf1b4ea.chunk.js",
-    "main.js.map": "/streambuy/static/js/main.ecf1b4ea.chunk.js.map",
+    "main.js": "/streambuy/static/js/main.be91538f.chunk.js",
+    "main.js.map": "/streambuy/static/js/main.be91538f.chunk.js.map",
     "runtime-main.js": "/streambuy/static/js/runtime-main.4d657329.js",
     "runtime-main.js.map": "/streambuy/static/js/runtime-main.4d657329.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/streambuy/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.1751b77c.chunk.js": "/streambuy/static/js/2.1751b77c.chunk.js",
-    "static/js/2.1751b77c.chunk.js.map": "/streambuy/static/js/2.1751b77c.chunk.js.map",
+    "static/js/2.7ba13cae.chunk.js": "/streambuy/static/js/2.7ba13cae.chunk.js",
+    "static/js/2.7ba13cae.chunk.js.map": "/streambuy/static/js/2.7ba13cae.chunk.js.map",
     "index.html": "/streambuy/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/streambuy/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.dc29921e.chunk.css.map": "/streambuy/static/css/main.dc29921e.chunk.css.map",
-    "static/js/2.1751b77c.chunk.js.LICENSE.txt": "/streambuy/static/js/2.1751b77c.chunk.js.LICENSE.txt"
+    "static/js/2.7ba13cae.chunk.js.LICENSE.txt": "/streambuy/static/js/2.7ba13cae.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4d657329.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.1751b77c.chunk.js",
+    "static/js/2.7ba13cae.chunk.js",
     "static/css/main.dc29921e.chunk.css",
-    "static/js/main.ecf1b4ea.chunk.js"
+    "static/js/main.be91538f.chunk.js"
   ]
 }
